@@ -1,0 +1,254 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --title-14px-regular: Poppins;
+    --heading-110px-medium: Inter;
+  
+    /* font sizes */
+    --title-12px-medium-size: 12px;
+    --title-20px-medium-size: 20px;
+    --title-16px-regular-size: 16px;
+    --heading-24px-bold-size: 24px;
+    --title-14px-regular-size: 14px;
+    --heading-110px-medium-size: 110px;
+  
+    /* Colors */
+    --bg: #fff;
+    --button: #000;
+    --text: #fafafa;
+    --button2: #db4444;
+    --secondary: #f5f5f5;
+  
+    /* Gaps */
+    --gap-0: 0px;
+    --gap-5xl: 24px;
+    --gap-5xs: 8px;
+    --gap-9xs: 4px;
+    --gap-base: 16px;
+    --gap-13xl: 32px;
+  
+    /* Paddings */
+    --padding-xs: 12px;
+    --padding-base: 16px;
+    --padding-29xl: 48px;
+    --padding-6xs: 7px;
+    --padding-xl: 20px;
+  
+    /* Border radiuses */
+    --br-9xs: 4px;
+  
+    /* Effects */
+    --categogy-5: 0px 1px 13px rgba(0, 0, 0, 0.05);
+  }
+  body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --title-14px-semibold: Poppins;
+    --heading-110px-medium: Inter;
+  
+    /* font sizes */
+    --title-12px-medium-size: 12px;
+    --title-20px-regular-size: 20px;
+    --title-16px-regular-size: 16px;
+    --heading-24px-bold-size: 24px;
+    --title-14px-semibold-size: 14px;
+    --heading-110px-medium-size: 110px;
+    --heading-36px-medium-size: 36px;
+  
+    /* Colors */
+    --bg: #fff;
+    --text2: #000;
+    --text: #fafafa;
+    --color-gray-100: rgba(0, 0, 0, 0.5);
+    --color-gray-200: rgba(0, 0, 0, 0.4);
+    --button2: #db4444;
+    --secondary: #f5f5f5;
+    --color-powderblue: #cbe4e8;
+    --button1: #00ff66;
+  
+    /* Gaps */
+    --gap-0: 0px;
+    --gap-5xl: 24px;
+    --gap-5xs: 8px;
+    --gap-9xs: 4px;
+    --gap-base: 16px;
+    --gap-13xl: 32px;
+    --gap-21xl: 40px;
+    --gap-29xl: 48px;
+    --gap-61xl: 80px;
+    --gap-41xl: 60px;
+  
+    /* Paddings */
+    --padding-xs: 12px;
+    --padding-base: 16px;
+    --padding-29xl: 48px;
+    --padding-6xs: 7px;
+    --padding-xl: 20px;
+    --padding-9xs: 4px;
+  
+    /* Border radiuses */
+    --br-9xs: 4px;
+    --br-11xs-4: 1.4px;
+  
+    /* Effects */
+    --categogy-5: 0px 1px 13px rgba(0, 0, 0, 0.05);
+  }
+  body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-montserrat: Montserrat;
+    --font-sen: Sen;
+    --title-14px-semibold: Poppins;
+    --heading-110px-medium: Inter;
+  
+    /* font sizes */
+    --font-size-6xl: 25px;
+    --heading-24px-bold-size: 24px;
+    --title-12px-medium-size: 12px;
+    --title-20px-regular-size: 20px;
+    --title-16px-regular-size: 16px;
+    --title-14px-semibold-size: 14px;
+    --heading-110px-medium-size: 110px;
+    --heading-36px-medium-size: 36px;
+  
+    /* Colors */
+    --bg: #fff;
+    --text: #fafafa;
+    --color-gray-100: rgba(0, 0, 0, 0.5);
+    --color-gray-200: rgba(0, 0, 0, 0.4);
+    --text2: #000;
+    --button2: #db4444;
+    --secondary: #f5f5f5;
+    --color-powderblue: #cbe4e8;
+    --button1: #00ff66;
+  
+    /* Gaps */
+    --gap-0: 0px;
+    --gap-5xl: 24px;
+    --gap-5xs: 8px;
+    --gap-9xs: 4px;
+    --gap-base: 16px;
+    --gap-13xl: 32px;
+    --gap-21xl: 40px;
+    --gap-29xl: 48px;
+    --gap-61xl: 80px;
+    --gap-41xl: 60px;
+  
+    /* Paddings */
+    --padding-xs: 12px;
+    --padding-base: 16px;
+    --padding-29xl: 48px;
+    --padding-6xs: 7px;
+    --padding-xl: 20px;
+    --padding-9xs: 4px;
+  
+    /* Border radiuses */
+    --br-31xl: 50px;
+    --br-9xs: 4px;
+    --br-11xs-4: 1.4px;
+  
+    /* Effects */
+    --categogy-5: 0px 1px 13px rgba(0, 0, 0, 0.05);
+  }
+  body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-montserrat: Montserrat;
+    --font-sen: Sen;
+    --title-14px-semibold: Poppins;
+    --heading-110px-medium: Inter;
+    --font-lato: Lato;
+    --font-frank-ruhl-libre: "Frank Ruhl Libre";
+  
+    /* font sizes */
+    --font-size-21xl: 40px;
+    --font-size-6xl: 25px;
+    --heading-24px-bold-size: 24px;
+    --title-12px-medium-size: 12px;
+    --title-20px-regular-size: 20px;
+    --title-16px-medium-size: 16px;
+    --title-14px-semibold-size: 14px;
+    --heading-110px-medium-size: 110px;
+    --heading-36px-medium-size: 36px;
+    --font-size-49xl: 68px;
+    --font-size-59xl: 78px;
+    --font-size-3xl: 22px;
+    --font-size-lg: 18px;
+    --font-size-33xl: 52px;
+    --font-size-29xl: 48px;
+    --font-size-mini: 15px;
+  
+    /* Colors */
+    --bg: #fff;
+    --text: #fafafa;
+    --color-primary-dark-brown: #34251f;
+    --color-gray-100: #262626;
+    --color-gray-200: rgba(0, 0, 0, 0.23);
+    --color-gray-300: rgba(0, 0, 0, 0.5);
+    --color-gray-400: rgba(0, 0, 0, 0.4);
+    --text2: #000;
+    --button2: #db4444;
+    --color-accent-red: #c20a0a;
+    --secondary: #f5f5f5;
+    --color-powderblue: #cbe4e8;
+    --button1: #00ff66;
+    --color-primary-lightbrown: #eeddcc;
+    --color-primary-brown: #413631;
+    --color-lightcoral: #e37c73;
+    --color-slateblue: #6b63dd;
+    --color-silver: #bbc0cc;
+    --color-lightslategray: #8399a9;
+    --color-rosybrown: #a57f6c;
+  
+    /* Gaps */
+    --gap-0: 0px;
+    --gap-5xl: 24px;
+    --gap-5xs: 8px;
+    --gap-9xs: 4px;
+    --gap-base: 16px;
+    --gap-13xl: 32px;
+    --gap-21xl: 40px;
+    --gap-29xl: 48px;
+    --gap-61xl: 80px;
+    --gap-41xl: 60px;
+  
+    /* Paddings */
+    --padding-xs: 12px;
+    --padding-base: 16px;
+    --padding-29xl: 48px;
+    --padding-6xs: 7px;
+    --padding-xl: 20px;
+    --padding-9xs: 4px;
+    --padding-smi: 13px;
+    --padding-5xl: 24px;
+  
+    /* Border radiuses */
+    --br-31xl: 50px;
+    --br-9xs: 4px;
+    --br-11xs-4: 1.4px;
+    --br-11xs: 2px;
+    --br-7xs: 6px;
+    --br-5xs: 8px;
+    --br-11xl: 30px;
+    --br-41xl: 60px;
+  
+    /* Effects */
+    --categogy-5: 0px 1px 13px rgba(0, 0, 0, 0.05);
+  }
+  

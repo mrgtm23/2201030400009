@@ -1,0 +1,562 @@
+.summer-sale-for {
+    width: 474px;
+    position: relative;
+    line-height: 21px;
+    display: inline-block;
+    height: 18px;
+    flex-shrink: 0;
+    }
+    .shopnow {
+    position: relative;
+    text-decoration: underline;
+    line-height: 24px;
+    font-weight: 600;
+    text-align: center;
+    }
+    .summer-sale-for-all-swim-suits-parent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 0px 8px;
+    }
+    .english {
+    position: relative;
+    line-height: 21px;
+    }
+    .dropdown-icon {
+    width: 24px;
+    position: relative;
+    height: 24px;
+    overflow: hidden;
+    flex-shrink: 0;
+    }
+    .english-parent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 0px 5px;
+    }
+    .frame-parent {
+    position: absolute;
+    top: 12px;
+    right: 136px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 0px 231px;
+    }
+    .top-header {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: var(--button);
+    width: 1440px;
+    height: 48px;
+    overflow: hidden;
+    font-size: var(--title-14px-regular-size);
+    color: var(--text);
+    }
+    .exclusive {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    letter-spacing: 0.03em;
+    line-height: 24px;
+    }
+    .logo {
+    width: 118px;
+    position: relative;
+    height: 24px;
+    }
+    .home {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    line-height: 24px;
+    }
+    .header1 {
+    width: 48px;
+    position: relative;
+    height: 24px;
+    }
+    .underline-icon {
+    width: 66px;
+    position: relative;
+    max-height: 100%;
+    opacity: 0.5;
+    }
+    .header2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    cursor: pointer;
+    }
+    .header4 {
+    width: 61px;
+    position: relative;
+    height: 24px;
+    }
+    .header-parent {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 0px 48px;
+    text-align: center;
+    font-size: var(--title-16px-regular-size);
+    font-family: var(--title-14px-regular);
+    }
+    .logo-parent {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 0px 160px;
+    }
+    .what-are-you {
+    position: relative;
+    line-height: 18px;
+    opacity: 0.5;
+    }
+    .what-are-you-looking-for-parent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 0px 34px;
+    }
+    .search-component-set {
+    border-radius: var(--br-9xs);
+    background-color: var(--secondary);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-6xs) var(--padding-xs) var(--padding-6xs) var(--padding-xl);
+    }
+    .wishlist-icon {
+    width: 32px;
+    position: relative;
+    height: 32px;
+    overflow: hidden;
+    flex-shrink: 0;
+    }
+    .cart1-with-buy {
+    width: 32px;
+    position: relative;
+    height: 32px;
+    }
+    .wishlist-parent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 0px 16px;
+    }
+    .search-component-set-parent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 0px 24px;
+    font-size: var(--title-12px-medium-size);
+    font-family: var(--title-14px-regular);
+    }
+    .header {
+    position: absolute;
+    top: 88px;
+    left: 135px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 0px 130px;
+    font-size: var(--heading-24px-bold-size);
+    font-family: var(--heading-110px-medium);
+    }
+    .contact-child {
+    position: absolute;
+    top: 142px;
+    left: 0px;
+    width: 1440px;
+    height: 0px;
+    }
+    .account {
+    position: relative;
+    line-height: 21px;
+    opacity: 0.5;
+    }
+    .roadmap-child {
+    width: 6px;
+    position: relative;
+    height: 11.7px;
+    object-fit: contain;
+    }
+    .roadmap-item {
+    width: 6px;
+    position: relative;
+    height: 11.7px;
+    object-fit: contain;
+    display: none;
+    }
+    .nothing1 {
+    width: 55px;
+    position: relative;
+    line-height: 21px;
+    display: none;
+    }
+    .roadmap {
+    position: absolute;
+    top: 222px;
+    left: 135px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 0px 12px;
+    font-size: var(--title-14px-regular-size);
+    }
+    .place-to-info-box {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: var(--br-9xs);
+    background-color: var(--secondary);
+    overflow: hidden;
+    }
+    .span {
+    color: var(--button2);
+    }
+    .md {
+    position: absolute;
+    top: 13px;
+    left: 16px;
+    line-height: 24px;
+    opacity: 0.5;
+    }
+    .placebox-info {
+    width: 235px;
+    position: relative;
+    height: 50px;
+    }
+    .placebox-info-parent {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 0px 16px;
+    }
+    .placebox-info3 {
+    width: 737px;
+    position: relative;
+    height: 207px;
+    }
+    .view-all-products {
+    position: relative;
+    line-height: 24px;
+    font-weight: 500;
+    }
+    .button {
+    border-radius: var(--br-9xs);
+    background-color: var(--button2);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-base) var(--padding-29xl);
+    color: var(--text);
+    }
+    .frame-group {
+    position: absolute;
+    top: 40px;
+    left: 31px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-start;
+    gap: 32px 0px;
+    }
+    .contact-inner {
+    position: absolute;
+    top: 323px;
+    left: 505px;
+    border-radius: var(--br-9xs);
+    background-color: var(--bg);
+    box-shadow: var(--categogy-5);
+    width: 800px;
+    height: 457px;
+    overflow: hidden;
+    }
+    .icons-phone {
+    width: 40px;
+    position: relative;
+    border-radius: 31px;
+    height: 40px;
+    overflow: hidden;
+    flex-shrink: 0;
+    }
+    .icons-phone-parent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 0px 16px;
+    }
+    .we-are-available {
+    width: 262px;
+    position: relative;
+    line-height: 21px;
+    display: inline-block;
+    }
+    .we-are-available-247-parent {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 16px 0px;
+    font-size: var(--title-14px-regular-size);
+    }
+    .underline-icon1 {
+    width: 270px;
+    position: relative;
+    max-height: 100%;
+    opacity: 0.5;
+    }
+    .icons-mail {
+    width: 40px;
+    position: relative;
+    border-radius: 43px;
+    height: 40px;
+    overflow: hidden;
+    flex-shrink: 0;
+    }
+    .fill-out-our {
+    width: 250px;
+    position: relative;
+    line-height: 21px;
+    display: inline-block;
+    }
+    .frame-container {
+    position: absolute;
+    top: 40px;
+    left: 35px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 32px 0px;
+    }
+    .frame-div {
+    position: absolute;
+    top: 323px;
+    left: 135px;
+    border-radius: var(--br-9xs);
+    background-color: var(--bg);
+    box-shadow: var(--categogy-5);
+    width: 340px;
+    height: 457px;
+    overflow: hidden;
+    }
+    .underline-icon2 {
+    width: 1440px;
+    position: relative;
+    max-height: 100%;
+    opacity: 0.5;
+    }
+    .icon-copyright {
+    width: 20px;
+    position: relative;
+    height: 20px;
+    overflow: hidden;
+    flex-shrink: 0;
+    }
+    .icon-copyright-parent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 0px 6px;
+    }
+    .frame-wrapper {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    opacity: 0.6;
+    }
+    .underline-parent {
+    position: absolute;
+    top: 376px;
+    left: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 16px 0px;
+    opacity: 0.4;
+    }
+    .subscribe {
+    position: relative;
+    font-size: var(--title-20px-medium-size);
+    line-height: 28px;
+    font-weight: 500;
+    font-family: var(--title-14px-regular);
+    }
+    .logo-group {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 24px 0px;
+    }
+    .get-10-off {
+    position: relative;
+    font-size: var(--title-16px-regular-size);
+    line-height: 24px;
+    font-family: var(--title-14px-regular);
+    }
+    .enter-your-email {
+    position: relative;
+    line-height: 24px;
+    opacity: 0.4;
+    }
+    .send-mail {
+    width: 217px;
+    border-radius: var(--br-9xs);
+    border: 1.5px solid var(--text);
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: var(--padding-xs) 0px var(--padding-xs) var(--padding-base);
+    gap: 0px 32px;
+    font-size: var(--title-16px-regular-size);
+    font-family: var(--title-14px-regular);
+    }
+    .frame-parent4 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 16px 0px;
+    font-size: var(--heading-24px-bold-size);
+    font-family: var(--heading-110px-medium);
+    }
+    .support {
+    position: relative;
+    line-height: 28px;
+    font-weight: 500;
+    }
+    .bijoy-sarani-dhaka {
+    width: 175px;
+    position: relative;
+    line-height: 24px;
+    display: inline-block;
+    }
+    .exclusivegmailcom {
+    position: relative;
+    line-height: 24px;
+    }
+    .bijoy-sarani-dhaka-dh-1515-parent {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 16px 0px;
+    font-size: var(--title-16px-regular-size);
+    }
+    .save-3-with {
+    position: relative;
+    line-height: 18px;
+    font-weight: 500;
+    opacity: 0.7;
+    }
+    .qr-code-icon {
+    width: 80px;
+    position: relative;
+    height: 80px;
+    overflow: hidden;
+    flex-shrink: 0;
+    object-fit: cover;
+    }
+    .googleplay-icon {
+    width: 110px;
+    position: relative;
+    height: 40px;
+    overflow: hidden;
+    flex-shrink: 0;
+    }
+    .appstore-icon {
+    width: 110px;
+    position: relative;
+    height: 40px;
+    overflow: hidden;
+    flex-shrink: 0;
+    object-fit: cover;
+    }
+    .googleplay-parent {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 4px 0px;
+    }
+    .save-3-with-app-new-user-only-parent {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 8px 0px;
+    font-size: var(--title-12px-medium-size);
+    }
+    .icon-facebook-parent {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 0px 24px;
+    }
+    .frame-parent3 {
+    position: absolute;
+    top: 80px;
+    left: 135px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 0px 87px;
+    font-size: var(--title-20px-medium-size);
+    color: var(--text);
+    }
+    .footer {
+    position: absolute;
+    top: 920px;
+    left: 0px;
+    background-color: var(--button);
+    width: 1440px;
+    height: 440px;
+    overflow: hidden;
+    color: var(--bg);
+    }
+    .contact {
+    width: 100%;
+    position: relative;
+    background-color: var(--bg);
+    height: 1360px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--title-16px-regular-size);
+    color: var(--button);
+    font-family: var(--title-14px-regular);
+    }
+    
+    
